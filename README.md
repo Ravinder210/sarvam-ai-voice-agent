@@ -177,11 +177,11 @@ Which one would you like to book?
 
 ## 🔒 License
 
-Private, shared with atishay@sarvam.ai for review.
+Private, was supposed to be shared with atishay@sarvam.ai for review but i was not able to find the account.
 
 ---
 
-**For questions or collaboration, contact [your.email@domain.com]**
+**For questions or collaboration, contact [ravinderkuhar210@gmail.com]**
 
 ---
 
