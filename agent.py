@@ -6,9 +6,8 @@ import re
 # Import Content, the correct object for holding a role
 from vertexai.generative_models import Content, GenerativeModel, Tool, Part, FunctionDeclaration
 import vertexai
-
-PROJECT_ID = "mnm10807"  
-REGION = "us-central1"       
+PROJECT_ID = "google-cloud-project-id"  
+REGION = "google-cloud-region"     
 
 import tools
 
