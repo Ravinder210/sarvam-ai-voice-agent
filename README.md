@@ -4,6 +4,12 @@
 
 A full-stack conversational AI system for restaurant discovery and reservations, supporting both voice and text interaction. Built with Google Gemini (Vertex AI), FastAPI, React, and SarvamAI.
 
+## Demo
+https://www.loom.com/share/1a784be2a1a441fcbdec0e37fab048f6
+
+## Solution Design & Business Strategy
+https://www.notion.so/Use-case-21d8c70ae8cd8051b248ffe4c56ab49f#21d8c70ae8cd8151a6c7d5ad03124932
+
 ---
 
 ## 🛠️ Technical Architecture
