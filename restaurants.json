@@ -1,0 +1,1355 @@
+[
+    {
+        "id": 1,
+        "name": "Singleton-Kelley Bistro",
+        "city": "Starling City",
+        "address": "7772 Ramos Mall Apt. 953",
+        "cuisine": "Italian",
+        "seating_capacity": 50,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.3,
+        "special_features": [
+            "Outdoor Seating",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Love, Becker and Perry Bistro",
+        "city": "Gotham",
+        "address": "626 Kendra Union Apt. 466",
+        "cuisine": "Chinese",
+        "seating_capacity": 64,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.7,
+        "special_features": [
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hawkins and Sons Bistro",
+        "city": "Central City",
+        "address": "37223 Drew Lake",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 30,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.7,
+        "special_features": [
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lewis-Roy Bistro",
+        "city": "Metroville",
+        "address": "6271 Kathleen Station",
+        "cuisine": "Italian",
+        "seating_capacity": 34,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.1,
+        "special_features": [
+            "Rooftop Bar",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "King, Russell and Young Bistro",
+        "city": "Coast City",
+        "address": "70842 Blair Plains Suite 930",
+        "cuisine": "Italian",
+        "seating_capacity": 26,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.8,
+        "special_features": [
+            "Outdoor Seating",
+            "Ocean View",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Murphy, Davis and Vang Bistro",
+        "city": "Metroville",
+        "address": "944 Franklin Estates",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 94,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.7,
+        "special_features": [
+            "Pet-Friendly",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Cisneros Inc Bistro",
+        "city": "Coast City",
+        "address": "40926 Gina Passage Apt. 993",
+        "cuisine": "French",
+        "seating_capacity": 80,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.4,
+        "special_features": [
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Brown-Ramos Bistro",
+        "city": "Coast City",
+        "address": "0198 Eaton Square Suite 425",
+        "cuisine": "Mexican",
+        "seating_capacity": 122,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.7,
+        "special_features": [
+            "Pet-Friendly"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Dodson-Jordan Bistro",
+        "city": "Central City",
+        "address": "45315 Diamond Estate Suite 188",
+        "cuisine": "Thai",
+        "seating_capacity": 38,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.9,
+        "special_features": [
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Lewis-Gilbert Bistro",
+        "city": "Gotham",
+        "address": "682 Lynch Highway",
+        "cuisine": "Chinese",
+        "seating_capacity": 58,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 5.0,
+        "special_features": [
+            "Pet-Friendly",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Rivers-Ferguson Bistro",
+        "city": "Gotham",
+        "address": "46560 Perez Meadows",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 98,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.8,
+        "special_features": [
+            "Outdoor Seating",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Cook-Holt Bistro",
+        "city": "Metroville",
+        "address": "806 Jasmine Land",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 116,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.3,
+        "special_features": [
+            "Family Friendly",
+            "Pet-Friendly",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Heath-Hamilton Bistro",
+        "city": "Gotham",
+        "address": "07352 Brian Groves",
+        "cuisine": "Thai",
+        "seating_capacity": 44,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.8,
+        "special_features": [
+            "Vegan Options",
+            "Live Music",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Walker, Oliver and Schwartz Bistro",
+        "city": "Gotham",
+        "address": "72652 Jacob Lock",
+        "cuisine": "American",
+        "seating_capacity": 150,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 5.0,
+        "special_features": [
+            "Rooftop Bar",
+            "Family Friendly",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Harris LLC Bistro",
+        "city": "Coast City",
+        "address": "7425 Christopher Track Apt. 164",
+        "cuisine": "Indian",
+        "seating_capacity": 32,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.5,
+        "special_features": [
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Garrison, Kennedy and Allison Bistro",
+        "city": "Starling City",
+        "address": "5049 Smith Valleys Apt. 867",
+        "cuisine": "Thai",
+        "seating_capacity": 130,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.6,
+        "special_features": [
+            "Rooftop Bar",
+            "Outdoor Seating",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Lopez-Obrien Bistro",
+        "city": "Central City",
+        "address": "456 Anderson Station",
+        "cuisine": "Italian",
+        "seating_capacity": 110,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.6,
+        "special_features": [
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gill, Martin and Myers Bistro",
+        "city": "Central City",
+        "address": "067 Jones Curve Suite 931",
+        "cuisine": "American",
+        "seating_capacity": 86,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.6,
+        "special_features": [
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Cuevas-Wright Bistro",
+        "city": "Central City",
+        "address": "315 Greene Grove Apt. 046",
+        "cuisine": "American",
+        "seating_capacity": 50,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.6,
+        "special_features": [
+            "Vegan Options",
+            "Live Music",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Benitez-Black Bistro",
+        "city": "Gotham",
+        "address": "5691 Harris Curve",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 74,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.8,
+        "special_features": [
+            "Pet-Friendly",
+            "Vegan Options",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Zimmerman and Sons Bistro",
+        "city": "Starling City",
+        "address": "68711 Parker Lakes",
+        "cuisine": "American",
+        "seating_capacity": 24,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 5.0,
+        "special_features": [
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Escobar, Moody and Graham Bistro",
+        "city": "Coast City",
+        "address": "40511 Benton Prairie Apt. 136",
+        "cuisine": "French",
+        "seating_capacity": 122,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.6,
+        "special_features": [
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Williams-Jones Bistro",
+        "city": "Metroville",
+        "address": "856 Matthews Springs",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 106,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.8,
+        "special_features": [
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Gentry and Sons Bistro",
+        "city": "Gotham",
+        "address": "40422 Little Club Apt. 827",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 134,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.6,
+        "special_features": [
+            "Live Music",
+            "Rooftop Bar",
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Roach, Carter and Clark Bistro",
+        "city": "Gotham",
+        "address": "0338 Shaw River",
+        "cuisine": "French",
+        "seating_capacity": 108,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.8,
+        "special_features": [
+            "Pet-Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Middleton, Whitaker and Jones Bistro",
+        "city": "Metroville",
+        "address": "2393 Price Divide Suite 105",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 42,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.9,
+        "special_features": [
+            "Ocean View",
+            "Pet-Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Mejia-Robinson Bistro",
+        "city": "Gotham",
+        "address": "9535 Mike Greens",
+        "cuisine": "French",
+        "seating_capacity": 92,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.1,
+        "special_features": [
+            "Rooftop Bar",
+            "Pet-Friendly"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Rojas, Ross and Wright Bistro",
+        "city": "Central City",
+        "address": "27401 Sampson Falls Suite 447",
+        "cuisine": "French",
+        "seating_capacity": 98,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.9,
+        "special_features": [
+            "Family Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Bradley Ltd Bistro",
+        "city": "Central City",
+        "address": "65843 Edwards Course",
+        "cuisine": "American",
+        "seating_capacity": 84,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.4,
+        "special_features": [
+            "Rooftop Bar",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Hardy, Willis and Martin Bistro",
+        "city": "Gotham",
+        "address": "73158 Matthew Locks",
+        "cuisine": "American",
+        "seating_capacity": 62,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.9,
+        "special_features": [
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Gregory and Sons Bistro",
+        "city": "Coast City",
+        "address": "147 Frey Square Apt. 179",
+        "cuisine": "Italian",
+        "seating_capacity": 76,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.6,
+        "special_features": [
+            "Ocean View",
+            "Vegan Options",
+            "Pet-Friendly"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Thompson, Hopkins and Miller Bistro",
+        "city": "Metroville",
+        "address": "2082 Pennington Locks Apt. 019",
+        "cuisine": "American",
+        "seating_capacity": 80,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.6,
+        "special_features": [
+            "Vegan Options",
+            "Pet-Friendly"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Kane, Bishop and Wilson Bistro",
+        "city": "Gotham",
+        "address": "78571 Barnett Loop",
+        "cuisine": "American",
+        "seating_capacity": 104,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.6,
+        "special_features": [
+            "Live Music",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Thompson-Gardner Bistro",
+        "city": "Metroville",
+        "address": "537 Steven Mountains Apt. 495",
+        "cuisine": "Indian",
+        "seating_capacity": 110,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.6,
+        "special_features": [
+            "Ocean View",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Baker, Simpson and Baldwin Bistro",
+        "city": "Gotham",
+        "address": "7335 Morrow Walks",
+        "cuisine": "Italian",
+        "seating_capacity": 56,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.5,
+        "special_features": [
+            "Pet-Friendly"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Decker PLC Bistro",
+        "city": "Coast City",
+        "address": "380 Morales Unions",
+        "cuisine": "Indian",
+        "seating_capacity": 142,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.6,
+        "special_features": [
+            "Vegan Options",
+            "Outdoor Seating",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Welch Inc Bistro",
+        "city": "Central City",
+        "address": "4175 Hicks Manor Suite 840",
+        "cuisine": "American",
+        "seating_capacity": 44,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.8,
+        "special_features": [
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Garcia, Jackson and Evans Bistro",
+        "city": "Metroville",
+        "address": "5224 Tyler Extensions",
+        "cuisine": "French",
+        "seating_capacity": 136,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.5,
+        "special_features": [
+            "Ocean View",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Hull LLC Bistro",
+        "city": "Starling City",
+        "address": "455 Luis Lakes Apt. 299",
+        "cuisine": "Thai",
+        "seating_capacity": 28,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.9,
+        "special_features": [
+            "Ocean View",
+            "Pet-Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Moore, Carpenter and Burnett Bistro",
+        "city": "Gotham",
+        "address": "482 Hamilton Isle Suite 082",
+        "cuisine": "Indian",
+        "seating_capacity": 136,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.1,
+        "special_features": [
+            "Ocean View",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Patterson-Collins Bistro",
+        "city": "Gotham",
+        "address": "508 Daniel Walks",
+        "cuisine": "Mexican",
+        "seating_capacity": 144,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.6,
+        "special_features": [
+            "Pet-Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Hopkins-Cochran Bistro",
+        "city": "Gotham",
+        "address": "083 Nicole Route Suite 888",
+        "cuisine": "Indian",
+        "seating_capacity": 120,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.7,
+        "special_features": [
+            "Rooftop Bar",
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Chandler, Crawford and Bates Bistro",
+        "city": "Central City",
+        "address": "6014 Ruth Highway Apt. 049",
+        "cuisine": "Chinese",
+        "seating_capacity": 74,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.4,
+        "special_features": [
+            "Ocean View",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Robinson, Cooper and Trujillo Bistro",
+        "city": "Central City",
+        "address": "97789 Marshall Trail",
+        "cuisine": "Indian",
+        "seating_capacity": 136,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.4,
+        "special_features": [
+            "Vegan Options",
+            "Pet-Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Jacobs Ltd Bistro",
+        "city": "Starling City",
+        "address": "50462 May Parks Apt. 003",
+        "cuisine": "Indian",
+        "seating_capacity": 140,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.5,
+        "special_features": [
+            "Vegan Options",
+            "Family Friendly",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Thomas PLC Bistro",
+        "city": "Coast City",
+        "address": "8521 Jordan Stream",
+        "cuisine": "French",
+        "seating_capacity": 148,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.6,
+        "special_features": [
+            "Pet-Friendly",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Roach-Jimenez Bistro",
+        "city": "Central City",
+        "address": "025 Mandy Course Apt. 720",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 128,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.5,
+        "special_features": [
+            "Rooftop Bar",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Richardson Inc Bistro",
+        "city": "Gotham",
+        "address": "44456 John Freeway",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 20,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.7,
+        "special_features": [
+            "Pet-Friendly",
+            "Rooftop Bar",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Ross, Galloway and Sullivan Bistro",
+        "city": "Coast City",
+        "address": "5932 Ramirez Fords Suite 922",
+        "cuisine": "Japanese",
+        "seating_capacity": 66,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.2,
+        "special_features": [
+            "Rooftop Bar",
+            "Outdoor Seating",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Gibbs, Murray and Wilkins Bistro",
+        "city": "Coast City",
+        "address": "3902 Romero Causeway Suite 370",
+        "cuisine": "Japanese",
+        "seating_capacity": 78,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.6,
+        "special_features": [
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Peters-Patton Bistro",
+        "city": "Starling City",
+        "address": "36708 Rebecca Views",
+        "cuisine": "Mexican",
+        "seating_capacity": 76,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.6,
+        "special_features": [
+            "Live Music"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Perry, Williamson and Rios Bistro",
+        "city": "Gotham",
+        "address": "71604 Lee Square Suite 366",
+        "cuisine": "American",
+        "seating_capacity": 46,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.4,
+        "special_features": [
+            "Outdoor Seating",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Thompson-Schmidt Bistro",
+        "city": "Starling City",
+        "address": "089 John Summit Suite 712",
+        "cuisine": "Thai",
+        "seating_capacity": 56,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.9,
+        "special_features": [
+            "Live Music"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Zimmerman-Bailey Bistro",
+        "city": "Starling City",
+        "address": "594 Aaron Land Suite 327",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 42,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.5,
+        "special_features": [
+            "Ocean View",
+            "Family Friendly",
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Watson, Green and Moran Bistro",
+        "city": "Starling City",
+        "address": "17663 John Streets Apt. 357",
+        "cuisine": "Indian",
+        "seating_capacity": 20,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.8,
+        "special_features": [
+            "Rooftop Bar",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Fisher-Fuller Bistro",
+        "city": "Metroville",
+        "address": "61412 Karen Fall",
+        "cuisine": "Italian",
+        "seating_capacity": 104,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.9,
+        "special_features": [
+            "Rooftop Bar",
+            "Pet-Friendly",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Cruz Ltd Bistro",
+        "city": "Coast City",
+        "address": "8274 Patel Islands Suite 534",
+        "cuisine": "Thai",
+        "seating_capacity": 36,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.1,
+        "special_features": [
+            "Rooftop Bar"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Alexander PLC Bistro",
+        "city": "Gotham",
+        "address": "4253 Bryan Ways",
+        "cuisine": "French",
+        "seating_capacity": 100,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.7,
+        "special_features": [
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Jenkins Inc Bistro",
+        "city": "Metroville",
+        "address": "8530 Nichole Causeway Suite 336",
+        "cuisine": "Japanese",
+        "seating_capacity": 42,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 4.4,
+        "special_features": [
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Mcdonald LLC Bistro",
+        "city": "Gotham",
+        "address": "88101 Howard Ports",
+        "cuisine": "French",
+        "seating_capacity": 40,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.8,
+        "special_features": [
+            "Pet-Friendly",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Foster and Sons Bistro",
+        "city": "Coast City",
+        "address": "61219 Christina Course Suite 619",
+        "cuisine": "Japanese",
+        "seating_capacity": 38,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.3,
+        "special_features": [
+            "Outdoor Seating"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Brady-Banks Bistro",
+        "city": "Coast City",
+        "address": "519 Nicole Village Suite 843",
+        "cuisine": "Italian",
+        "seating_capacity": 118,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.5,
+        "special_features": [
+            "Outdoor Seating",
+            "Pet-Friendly",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Green, Jackson and Hunt Bistro",
+        "city": "Metroville",
+        "address": "598 Maria Vista",
+        "cuisine": "Japanese",
+        "seating_capacity": 36,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 4.9,
+        "special_features": [
+            "Live Music"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Schmidt, Perry and Reed Bistro",
+        "city": "Coast City",
+        "address": "3851 Patterson Valleys Apt. 532",
+        "cuisine": "Chinese",
+        "seating_capacity": 62,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.9,
+        "special_features": [
+            "Live Music"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Garcia, Morales and Nolan Bistro",
+        "city": "Central City",
+        "address": "4172 Russo Street Apt. 475",
+        "cuisine": "Chinese",
+        "seating_capacity": 28,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.9,
+        "special_features": [
+            "Family Friendly",
+            "Outdoor Seating",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Bradley, Wolf and Mason Bistro",
+        "city": "Starling City",
+        "address": "43255 Haley Throughway Apt. 841",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 98,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.0,
+        "special_features": [
+            "Rooftop Bar",
+            "Vegan Options",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Johnson-Lopez Bistro",
+        "city": "Central City",
+        "address": "39724 Brenda Junction",
+        "cuisine": "American",
+        "seating_capacity": 150,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 4,
+        "rating": 3.6,
+        "special_features": [
+            "Outdoor Seating",
+            "Family Friendly",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Smith, Burch and Oneill Bistro",
+        "city": "Central City",
+        "address": "323 Harvey Plain",
+        "cuisine": "Italian",
+        "seating_capacity": 96,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 3.6,
+        "special_features": [
+            "Outdoor Seating",
+            "Ocean View"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Lee Group Bistro",
+        "city": "Coast City",
+        "address": "446 Anderson Manor",
+        "cuisine": "Chinese",
+        "seating_capacity": 114,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.9,
+        "special_features": [
+            "Pet-Friendly",
+            "Vegan Options",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Holden-Manning Bistro",
+        "city": "Coast City",
+        "address": "755 Emily Orchard",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 122,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.3,
+        "special_features": [
+            "Pet-Friendly",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Medina Ltd Bistro",
+        "city": "Gotham",
+        "address": "4643 Allen Mount",
+        "cuisine": "Mexican",
+        "seating_capacity": 114,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.9,
+        "special_features": [
+            "Outdoor Seating",
+            "Vegan Options",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Davenport Group Bistro",
+        "city": "Central City",
+        "address": "1888 Jones Ville Apt. 208",
+        "cuisine": "Mexican",
+        "seating_capacity": 148,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 3,
+        "rating": 4.5,
+        "special_features": [
+            "Rooftop Bar",
+            "Vegan Options"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Rogers, Perkins and Dickson Bistro",
+        "city": "Gotham",
+        "address": "49190 Wilkinson Via",
+        "cuisine": "Chinese",
+        "seating_capacity": 76,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 1,
+        "rating": 3.6,
+        "special_features": [
+            "Pet-Friendly",
+            "Rooftop Bar",
+            "Family Friendly"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Rose-Mitchell Bistro",
+        "city": "Coast City",
+        "address": "55112 Gregory Brook Apt. 314",
+        "cuisine": "Japanese",
+        "seating_capacity": 26,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 3.6,
+        "special_features": [
+            "Rooftop Bar",
+            "Pet-Friendly",
+            "Live Music"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Foster, Carroll and Torres Bistro",
+        "city": "Gotham",
+        "address": "3675 Fuller Dale Apt. 400",
+        "cuisine": "Mediterranean",
+        "seating_capacity": 144,
+        "operating_hours": {
+            "monday-friday": "11:00 AM - 10:00 PM",
+            "saturday-sunday": "10:00 AM - 11:00 PM"
+        },
+        "price_range": 2,
+        "rating": 4.1,
+        "special_features": [
+            "Ocean View",
+            "Vegan Options"
+        ]
+    }
+]
