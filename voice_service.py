@@ -7,7 +7,7 @@ import base64
 # Load environment variables to get the API key
 load_dotenv()
 
-SARVAM_API_KEY = "d197cdb5-7340-4eea-9210-50667172fb44"
+SARVAM_API_KEY = "Sarvam-ai-api-key"
 
 # Initialize the Sarvam AI client once when the module is loaded.
 # This is more efficient than creating a new client for every call.
